@@ -18,11 +18,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享精益知识',
-  HEO_HERO_TITLE_2: '与数字化赋能',
-  HEO_HERO_TITLE_3: 'originflow.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_1: '分享德国标准',
+  HEO_HERO_TITLE_2: '的精益知识',
+  HEO_HERO_TITLE_3: 'originflow.com',
+  HEO_HERO_TITLE_4: '数字化新工具',
+  HEO_HERO_TITLE_5: '数字化赋能精益转型',
   HEO_HERO_TITLE_LINK: 'https://blog.originflow.cn',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
