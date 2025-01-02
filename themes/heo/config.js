@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://blog.originflow.cn/austinzhai',
+  HEO_INFO_CARD_URL2: 'https://blog.originflow.cn/article/austinzhai2',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://blog.originflow.cn/austinzhai',
+  HEO_INFO_CARD_URL3: 'https://blog.originflow.cn/article/austinzhai2',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://blog.originflow.cn/austinzhai',
+  HEO_SOCIAL_CARD_URL: 'https://blog.originflow.cn/article/austinzhai2',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
