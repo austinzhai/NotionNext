@@ -13,11 +13,11 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: '以APS智能调度，兑现精益价值', // 英雄区文字
   STARTER_HERO_TITLE_2: '助您快速降库存、缩周期、增利润', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: '软件试用', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
+    'https://inv.originflow.cn/article/software', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '德系精益管理', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://www.originflow.cn/service/consulting', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
@@ -41,23 +41,23 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '零成本试用', // 特性1
   STARTER_FEATURE_1_TEXT_1: '提供ABC-XYZ在线分析，以及MyAPS智能排程软件的免费试用', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://inv.originflow.cn/article/software', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '快速见效', // 特性2
   STARTER_FEATURE_2_TEXT_1: '提供小型Workshop研讨会支持，和4～8周的快赢项目', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    'https://www.originflow.cn/service/workshop', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '德国精益系统', // 特性3
   STARTER_FEATURE_3_TEXT_1: '基于德国保时捷咨询的OPEX-1588系统化的方法论', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://www.originflow.cn/aboutus', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '持续有效', // 特性4
   STARTER_FEATURE_4_TEXT_1: ' MyAPS改善和固化生产计划流程，BI监督流程和结果', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://www.originflow.cn/service/myaps', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     'Originflow的愿景是帮助您低成本的、快速的、系统的、持续有效的降低库存、快速交付。 <br /> <br /> 领先的数据分析工具，功能强大的MyAPS，简单快速的实施方法，快速降低库存，准时交付',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
+  STARTER_ABOUT_BUTTON_URL: 'https://inv.originflow.cn/article/service',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '30+',
@@ -77,38 +77,38 @@ const CONFIG = {
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
-    '我们制定了灵活的付费模式，您可以按需选择。（ABC-XYZ在线库存分析工具和MyAPS试用免费，这里仅演示产品订阅付费功能，请勿下单购买！）',
+    '我们制定了灵活的付费模式，您可以按需选择。（ABC-XYZ在线库存分析工具和MyAPS试用免费！）',
 
   STARTER_PRICING_1_TITLE: '试用版',
-  STARTER_PRICING_1_PRICE: '0.0',
+  STARTER_PRICING_1_PRICE: '0',
   STARTER_PRICING_1_PRICE_CURRENCY: '¥',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '所有功能,免费更新,帮助手册', // 英文逗号隔开
-  STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_1_FEATURES: '在线库存分析,MyAPS试用版本,帮助手册,在线研讨会支持', // 英文逗号隔开
+  STARTER_PRICING_1_BUTTON_TEXT: '立即试用',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
+    'https://inv.originflow.cn/article/Trial',
 
   STARTER_PRICING_2_TAG: '推荐',
-  STARTER_PRICING_2_TITLE: '小企业版',
-  STARTER_PRICING_2_PRICE: '2500',
+  STARTER_PRICING_2_TITLE: 'SaaS版',
+  STARTER_PRICING_2_PRICE: '2,500',
   STARTER_PRICING_2_PRICE_CURRENCY: '¥',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含ERP数据集成,MyAPS基础版,快赢实施,年度评估', // 英文逗号隔开
-  STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_2_FEATURES: '包含ERP数据集成,MyAPS SaaS版,现场实施,年度维护', // 英文逗号隔开
+  STARTER_PRICING_2_BUTTON_TEXT: '立即订购',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
+    'https://inv.originflow.cn/article/saas',
 
-  STARTER_PRICING_3_TITLE: '项目版',
-  STARTER_PRICING_3_PRICE: '***',
+  STARTER_PRICING_3_TITLE: '定制项目',
+  STARTER_PRICING_3_PRICE: '待定',
   STARTER_PRICING_3_PRICE_CURRENCY: '¥',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含ERP数据集成,MyAPS专业版,精益改善项目,绩效对赌，年度评估和跟进', // 英文逗号隔开
-  STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_3_FEATURES: '包含ERP数据集成,MyAPS专业版,精益快赢项目,绩效对赌，年度维护', // 英文逗号隔开
+  STARTER_PRICING_3_BUTTON_TEXT: '联系我们',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+    'https://inv.originflow.cn/article/project',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
@@ -122,43 +122,43 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '感谢大佬的方法。之前尝试过Super、Potion等国外的第三方平台，实现效果一般，个性化程度远不如这个方法，已经用起来了！ ',
+        '卓越运营OPEX-1588的方法论和工具非常简明有效，员工容易掌握并且立刻着手改善，是培养员工改善技能的利器！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Gregor',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Festo 卓越运营总监',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+        '我对A3问题解决的方法印象深刻，尤其是第2步设定目标，这个目标通常是要提升30%（+效率提升30%，库存降低30%），通过结构化的A3问题解决工具，我们欣赏的看到真的能在第6步达成目标',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Jenny Wu',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '英格索兰 供应链总监',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢Tangly1024大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
+        'OPEX-1588方法深入浅出，使身在制造业一线的员工也可以轻松学会结构化解决问题。感谢谢恩，带领森科团队在精益的道路上持续改善，更进一步 ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Amanda Liu',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳 森科 COO',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '感谢提供这么好的项目哈哈 之前一直不知道怎么部署(别的项目好难好复杂)这个相对非常简单 新手非常友好哦',
+        'MyAPS便宜且功能强大，我们使用下来能很好的解决当前企业排程问题，物料齐套功能是解决当前企业高库存问题的答案',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'AI资源分享 Blog',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '竺浩亮 ',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '麦肯锡顾问，阿尔法智联CEO',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '灰常感谢大佬的博客项目，能将博客和notion结合起来，这一直是我挺期待的博客模式。',
+        '通过精益数字化项目的实施，我们在三个月内将交付周期缩短了35%，数据驱动的决策文化正在组织中生根发芽。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
@@ -166,11 +166,11 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '用好久了，太感谢了',
+      STARTER_TESTIMONIALS_ITEM_TEXT: '从价值流映射到数字化看板，每一步都扎实有力。尤其让我们惊喜的是，系统还能自动识别瓶颈工序并推送改善建议，这超出了我们的预期',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'LUCEN考验辅导 站长',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '张懿',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '某电缆COO',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
     }
   ],
@@ -187,7 +187,7 @@ const CONFIG = {
 
   STARTER_FAQ_2_QUESTION: '你们如何实施项目？',
   STARTER_FAQ_2_ANSWER:
-    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://inv.originflow.cn/article/service">《帮助文档》</a>',
 
   STARTER_FAQ_3_QUESTION: '数据集成服务包含哪些内容？',
   STARTER_FAQ_3_ANSWER:
