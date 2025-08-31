@@ -10,8 +10,8 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '以APS智能调度，兑现精益价值', // 英雄区文字
-  STARTER_HERO_TITLE_2: '助您快速降库存、缩周期、增利润', // 英雄区文字
+  STARTER_HERO_TITLE_1: '制原MyAPS智能排程解决方案', // 英雄区文字
+  STARTER_HERO_TITLE_2: '破解“高库存”与“低交付”困境，打造精益供应链', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '软件试用', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -38,32 +38,32 @@ const CONFIG = {
   STARTER_FEATURE_TEXT_2:
     'Originflow的愿景是帮助您低成本的、快速的、系统的、持续有效的降低库存、快速交付。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '零成本试用', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '提供ABC-XYZ在线分析，以及MyAPS智能排程软件的免费试用', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '德系智造', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '方法论源自保时捷咨询 + 方案结合精益快速见效 + 数字化扩展能力', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://inv.originflow.cn/article/software', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '快速见效', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '提供小型Workshop研讨会支持，和4～8周的快赢项目', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '实战专家', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '开发团队源自德国西门子，SAP咨询顾问', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     'https://www.originflow.cn/service/workshop', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '德国精益系统', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于德国保时捷咨询的OPEX-1588系统化的方法论', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '敏捷迭代', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '结合数据集成、低代码平台，有持续改善能力', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://www.originflow.cn/aboutus', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '持续有效', // 特性4
-  STARTER_FEATURE_4_TEXT_1: ' MyAPS改善和固化生产计划流程，BI监督流程和结果', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '无忧体验', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '支持免费试用，从试用到合作，全程最大化降低您的风险，省心可靠', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'https://www.originflow.cn/service/myaps', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '以APS智能调度，兑现精益价值',
+  STARTER_ABOUT_TITLE: '更少库存，更快交付。MyAPS：数据驱动的高效履约系统',
   STARTER_ABOUT_TEXT:
-    'Originflow的愿景是帮助您低成本的、快速的、系统的、持续有效的降低库存、快速交付。 <br /> <br /> 领先的数据分析工具，功能强大的MyAPS，简单快速的实施方法，快速降低库存，准时交付',
+    '困于高库存与低交付率的两难境地？Originflow为您破局。 <br /> <br /> 我们凭借强大的MyAPS与精准数据洞察，提供一套快速见效、持续优化的解决方案，系统化保障低成本与准时交付。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://inv.originflow.cn/article/service',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
