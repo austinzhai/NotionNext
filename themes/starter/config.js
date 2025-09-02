@@ -15,8 +15,8 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '软件试用', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://inv.originflow.cn/article/software', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '德系精益管理', // 英雄区按钮
+    'https://inv.originflow.cn/article/free', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '精益咨询', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://www.originflow.cn/service/consulting', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
@@ -41,23 +41,23 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '德系智造', // 特性1
   STARTER_FEATURE_1_TEXT_1: '方法论源自保时捷咨询 + 方案结合精益快速见效 + 数字化扩展能力', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://inv.originflow.cn/article/software', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://www.originflow.cn/service/workshop', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '实战专家', // 特性2
   STARTER_FEATURE_2_TEXT_1: '开发团队源自德国西门子，SAP咨询顾问', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://www.originflow.cn/service/workshop', // 特性2
+    'https://www.originflow.cn/contact/team', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '敏捷迭代', // 特性3
   STARTER_FEATURE_3_TEXT_1: '结合数据集成、低代码平台，有持续改善能力', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://www.originflow.cn/aboutus', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://www.originflow.cn/service/myaps', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '无忧体验', // 特性4
   STARTER_FEATURE_4_TEXT_1: '支持免费试用，从试用到合作，全程最大化降低您的风险，省心可靠', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://www.originflow.cn/service/myaps', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://inv.originflow.cn/article/free', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
@@ -84,10 +84,10 @@ const CONFIG = {
   STARTER_PRICING_1_PRICE_CURRENCY: '¥',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '在线库存分析,MyAPS试用版本,帮助手册,在线研讨会支持', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: '库存在线分析,MyAPS试用,帮助手册,在线研讨会支持', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即试用',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://inv.originflow.cn/article/Trial',
+    'https://inv.originflow.cn/article/free',
 
   STARTER_PRICING_2_TAG: '推荐',
   STARTER_PRICING_2_TITLE: 'SaaS版',
@@ -183,26 +183,26 @@ const CONFIG = {
 
   STARTER_FAQ_1_QUESTION: 'MyAPS有帮助文档吗？',
   STARTER_FAQ_1_ANSWER:
-    'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
+    '我们提供了<a href="https://inv.originflow.cn/article/free">帮助文档</a>，操作演示视频</a>，来协助您完成MyAPS软件的建模和试用',
 
   STARTER_FAQ_2_QUESTION: '你们如何实施项目？',
   STARTER_FAQ_2_ANSWER:
-    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://inv.originflow.cn/article/service">《帮助文档》</a>',
+    '我们按照标准的德系管理咨询架构实施项目，并且采用数字化工具加速项目的实施，详情参考<a className="underline" href="https://www.originflow.cn/service/consulting">《帮助文档》</a>',
 
   STARTER_FAQ_3_QUESTION: '数据集成服务包含哪些内容？',
   STARTER_FAQ_3_ANSWER:
-    '通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
+    '详情参考<a className="underline" href="https://www.originflow.cn/service/myaps">《帮助文档》</a>',
 
   STARTER_FAQ_4_QUESTION: '降低库存的方法论是什么？',
   STARTER_FAQ_4_ANSWER:
-    '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+    '全面流动管理TFM的方法，通过工厂价值流、APS工具快速达成降低库存和改善交付，详情参考<a className="underline" href="https://www.originflow.cn/service/workshop">《帮助文档》</a>',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
   STARTER_TEAM_TITLE: '团队成员',
   STARTER_TEAM_TEXT_1: '我们的开发者团队',
   STARTER_TEAM_TEXT_2:
-    'Originflow 由精益咨询专家、供应链专家和IT专家组成，感谢每一位<a className="underline" href="https://github.com/tangly1024/NotionNext/graphs/contributors">贡献者</a>',
+    'Originflow 由精益咨询专家、供应链专家和IT专家组成，感谢每一位贡献者',
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [
