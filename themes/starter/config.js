@@ -44,7 +44,7 @@ const CONFIG = {
   STARTER_FEATURE_1_BUTTON_URL: 'https://www.originflow.cn/service/workshop', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '实战专家', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '开发团队源自德国西门子、SAP', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '开发团队源自德国西门子公司，具备15年+SAP实施经验', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     'https://www.originflow.cn/contact/team', // 特性2
