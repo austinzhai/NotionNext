@@ -249,13 +249,13 @@ const CONFIG = {
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/contact-us-j21b7b', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
-  //   STARTER_CONTACT_MSG_TITLE: '向我们留言',
-  //   STARTER_CONTACT_MSG_NAME: '姓名',
-  //   STARTER_CONTACT_MSG_EMAIL: '邮箱地址',
-  //   STARTER_CONTACT_MSG_PHONE: '联系电话',
-  //   STARTER_CONTACT_MSG_TEXT: '消息内容',
-  //   STARTER_CONTACT_MSG_SEND: '发送消息',
-  //   STARTER_CONTACT_MSG_THANKS: '感谢您的留言',
+  STARTER_CONTACT_MSG_TITLE: '向我们留言',
+  STARTER_CONTACT_MSG_NAME: '姓名',
+  STARTER_CONTACT_MSG_EMAIL: 'Email',
+  // STARTER_CONTACT_MSG_PHONE: '联系电话',
+  STARTER_CONTACT_MSG_TEXT: '消息内容',
+  STARTER_CONTACT_MSG_SEND: '发送消息',
+  STARTER_CONTACT_MSG_THANKS: '感谢您的留言',
 
   // 合作伙伴的图标
   STARTER_BRANDS_ENABLE: false, // 合作伙伴开关
