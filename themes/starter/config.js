@@ -115,43 +115,43 @@ const CONFIG = {
   STARTER_TESTIMONIALS_TITLE: '用户反馈',
   STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
   STARTER_TESTIMONIALS_TEXT_2:
-    '超过30多个工厂,通过使用我们的数字化服务、交流社群以及技术咨询，成功的降低了库存，缩短生产周期，改善了交付效率',
+    '超过30多个工厂,通过我们的咨询服务、以及数字化服务，成功的降低了库存，缩短生产周期，改善了交付效率',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '卓越运营OPEX-1588的方法论和工具非常简明有效，员工容易掌握并且立刻着手改善，是培养员工改善技能的利器！ ',
+        '卓越运营OPEX-1588的方法论和数字化工具非常简明有效，员工容易掌握并且立刻着手改善，是培养员工改善技能的利器！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
+        '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Gregor',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Festo 卓越运营总监',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.festo.com.cn/cn/zh/'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '我对A3问题解决的方法印象深刻，尤其是第2步设定目标，这个目标通常是要提升30%（+效率提升30%，库存降低30%），通过结构化的A3问题解决工具，我们欣赏的看到真的能在第6步达成目标',
+        '我对A3问题解决的方法印象深刻，尤其是第2步设定目标，这个目标通常是要提升30%（+效率提升30%，库存降低30%），通过结构化的A3问题解决工具，我们欣喜的看到真的能在第6步达成目标',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
+        '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Jenny Wu',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '英格索兰 供应链总监',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.ingersollrand.com/'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'OPEX-1588方法深入浅出，使身在制造业一线的员工也可以轻松学会结构化解决问题。感谢谢恩，带领森科团队在精益的道路上持续改善，更进一步 ',
+        'OPEX-1588方法深入浅出，使身在制造业一线的员工也可以轻松学会结构化解决问题。感谢制原，带领森科团队在精益的道路上持续改善，更进一步 ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+        '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Amanda Liu',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳 森科 COO',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://tritree.cn/'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'MyAPS便宜且功能强大，我们使用下来能很好的解决当前企业排程问题，物料齐套功能是解决当前企业高库存问题的答案',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
+        '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '竺浩亮 ',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '麦肯锡顾问，阿尔法智联CEO',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
@@ -160,18 +160,18 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '通过精益数字化项目的实施，我们在三个月内将交付周期缩短了35%，数据驱动的决策文化正在组织中生根发芽。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Anjhon`s Blog 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
+        '',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Henry Kong',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '某发动机公司GM',
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.parsunpower.cn/'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '从价值流映射到数字化看板，每一步都扎实有力。尤其让我们惊喜的是，系统还能自动识别瓶颈工序并推送改善建议，这超出了我们的预期',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+        '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '张懿',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '某电缆COO',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.leonicables.com/'
     }
   ],
 
