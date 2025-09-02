@@ -18,7 +18,7 @@ const CONFIG = {
     'https://inv.originflow.cn/article/free', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '精益咨询', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://www.originflow.cn/service/consulting', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
+  STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
@@ -98,7 +98,7 @@ const CONFIG = {
   STARTER_PRICING_2_FEATURES: '包含ERP数据集成,MyAPS SaaS版,现场实施,年度维护', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即订购',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://inv.originflow.cn/article/saas',
+    'https://inv.originflow.cn/article/price-saas',
 
   STARTER_PRICING_3_TITLE: '定制项目',
   STARTER_PRICING_3_PRICE: '待定',
@@ -108,7 +108,7 @@ const CONFIG = {
   STARTER_PRICING_3_FEATURES: '包含ERP数据集成,MyAPS专业版,精益快赢项目,绩效对赌，年度维护', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '联系我们',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://inv.originflow.cn/article/project',
+    'https://inv.originflow.cn/article/price-project',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
@@ -191,8 +191,8 @@ const CONFIG = {
 
   STARTER_FAQ_3_QUESTION: '数据集成服务包含哪些内容？',
   STARTER_FAQ_3_ANSWER:
-    '详情参考<a className="underline" href="https://www.originflow.cn/service/myaps">《帮助文档》</a>',
-
+    '数据集成服务，详情参考<a className="underline" href="https://inv.originflow.cn/article/data-integration">《数据集成文档》</a>',
+ 
   STARTER_FAQ_4_QUESTION: '降低库存的方法论是什么？',
   STARTER_FAQ_4_ANSWER:
     '全面流动管理TFM的方法，通过工厂价值流、APS工具快速达成降低库存和改善交付，详情参考<a className="underline" href="https://www.originflow.cn/service/workshop">《帮助文档》</a>',
