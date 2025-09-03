@@ -57,7 +57,7 @@ const CONFIG = {
   STARTER_FEATURE_4_TITLE_1: '无忧体验', // 特性4
   STARTER_FEATURE_4_TEXT_1: '支持免费试用，从试用到合作，全程最大化降低您的风险，省心可靠', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://inv.originflow.cn/article/free', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://aps.originflow.cn/article/free', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     '困于高库存与低交付率的两难境地？Originflow为您破局。 <br /> <br /> 我们凭借强大的MyAPS与精准数据洞察，提供一套快速见效、持续优化的解决方案，系统化保障低成本与准时交付。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://inv.originflow.cn/article/service',
+  STARTER_ABOUT_BUTTON_URL: 'https://aps.originflow.cn/article/service',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '30+',
@@ -87,7 +87,7 @@ const CONFIG = {
   STARTER_PRICING_1_FEATURES: '库存在线分析,MyAPS试用,帮助手册,在线研讨会支持', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即试用',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://inv.originflow.cn/article/free',
+    'https://aps.originflow.cn/article/free',
 
   STARTER_PRICING_2_TAG: '推荐',
   STARTER_PRICING_2_TITLE: 'SaaS版',
@@ -98,7 +98,7 @@ const CONFIG = {
   STARTER_PRICING_2_FEATURES: '包含ERP数据集成,MyAPS SaaS版,现场实施,年度维护', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即订购',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://inv.originflow.cn/article/price-saas',
+    'https://aps.originflow.cn/article/price-saas',
 
   STARTER_PRICING_3_TITLE: '定制项目',
   STARTER_PRICING_3_PRICE: '待定',
@@ -183,7 +183,7 @@ const CONFIG = {
 
   STARTER_FAQ_1_QUESTION: 'MyAPS有帮助文档吗？',
   STARTER_FAQ_1_ANSWER:
-    '我们提供了<a href="https://inv.originflow.cn/article/free">帮助文档</a>，操作演示视频</a>，来协助您完成MyAPS软件的建模和试用',
+    '我们提供了<a href="https://aps.originflow.cn/article/free">帮助文档</a>，操作演示视频</a>，来协助您完成MyAPS软件的建模和试用',
 
   STARTER_FAQ_2_QUESTION: '你们如何实施项目？',
   STARTER_FAQ_2_ANSWER:
@@ -191,7 +191,7 @@ const CONFIG = {
 
   STARTER_FAQ_3_QUESTION: '数据集成服务包含哪些内容？',
   STARTER_FAQ_3_ANSWER:
-    '数据集成服务，详情参考<a className="underline" href="https://inv.originflow.cn/article/data-integration">《数据集成文档》</a>',
+    '数据集成服务，详情参考<a className="underline" href="https://aps.originflow.cn/article/data-integration">《数据集成文档》</a>',
  
   STARTER_FAQ_4_QUESTION: '降低库存的方法论是什么？',
   STARTER_FAQ_4_ANSWER:
@@ -316,13 +316,13 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: '部署指南',
-          URL: 'https://inv.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/free'
         },
         {
           TITLE: '升级指南',
-          URL: 'https://inv.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/free'
         },
-        { TITLE: '最新版本', URL: 'https://inv.originflow.cn/article/free' }
+        { TITLE: '最新版本', URL: 'https://aps.originflow.cn/article/free' }
       ]
     },
     {
@@ -330,15 +330,15 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'MyAPS功能1',
-          URL: 'https://inv.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/free'
         },
         {
           TITLE: 'MyAPS功能2',
-          URL: 'https://inv.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/free'
         },
         {
           TITLE: 'MyAPS功能3',
-          URL: 'https://inv.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/free'
         }
       ]
     }
@@ -368,11 +368,11 @@ const CONFIG = {
     '访问MyAPS的操作文档，我们提供了详细的教程，帮助你即刻试用软件',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
-    'https://inv.originflow.cn/article/free',
+    'https://aps.originflow.cn/article/free',
   STARTER_CTA_BUTTON_TEXT: '开始体验',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
-  STARTER_POST_REDIRECT_URL: 'https://inv.originflow.cn/', // 重定向域名
+  STARTER_POST_REDIRECT_URL: 'https://aps.originflow.cn/', // 重定向域名
   STARTER_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_STARTER_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
 export default CONFIG
