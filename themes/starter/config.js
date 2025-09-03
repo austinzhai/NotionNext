@@ -52,7 +52,7 @@ const CONFIG = {
   STARTER_FEATURE_3_TITLE_1: '敏捷迭代', // 特性3
   STARTER_FEATURE_3_TEXT_1: '结合数据集成、低代码平台，提升持续改善能力', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://www.originflow.cn/service/myaps', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://aps.originflow.cn/article/mingdao', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '无忧体验', // 特性4
   STARTER_FEATURE_4_TEXT_1: '支持免费试用，从试用到合作，全程最大化降低您的风险，省心可靠', // 特性4
