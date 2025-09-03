@@ -15,7 +15,7 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '软件试用', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://inv.originflow.cn/article/free', // 英雄区按钮
+    'https://aps.originflow.cn/article/free', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '精益咨询', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://www.originflow.cn/service/consulting', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
@@ -108,7 +108,7 @@ const CONFIG = {
   STARTER_PRICING_3_FEATURES: '包含ERP数据集成,MyAPS专业版,精益快赢项目,绩效对赌，年度维护', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '联系我们',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://inv.originflow.cn/article/price-project',
+    'https://aps.originflow.cn/article/price-project',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
@@ -292,7 +292,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过标准化的德国精益咨询，和APS技术为制造业创造数字体验。',
+  STARTER_FOOTER_SLOGAN: '我们通过标准化的德国精益咨询，和先进的APS技术为制造业创造数字体验。',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
