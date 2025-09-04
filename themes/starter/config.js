@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     '困于高库存与低交付率的两难境地？Originflow为您破局。 <br /> <br /> 我们凭借强大的MyAPS与精准数据洞察，提供一套快速见效、持续优化的解决方案，系统化保障低成本与准时交付。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://aps.originflow.cn/article/service',
+  STARTER_ABOUT_BUTTON_URL: 'https://aps.originflow.cn/article/price-saas',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '30+',
