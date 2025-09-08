@@ -10,8 +10,8 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '制原MyAPS智能排程解决方案', // 英雄区文字
-  STARTER_HERO_TITLE_2: '破解“高库存”与“低交付”困境，打造精益供应链', // 英雄区文字
+  STARTER_HERO_TITLE_1: '保交付，找制原', // 英雄区文字
+  STARTER_HERO_TITLE_2: '德系精益+MYAPS，专治急单、高库存、交付难！', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '软件试用', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -61,7 +61,7 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '更少库存，更快交付。MyAPS：数据驱动的高效履约系统',
+  STARTER_ABOUT_TITLE: '融合德系精益与MYAPS，为您实现更少库存、更快交付',
   STARTER_ABOUT_TEXT:
     '困于高库存与低交付率的两难境地？Originflow为您破局。 <br /> <br /> 我们凭借强大的MyAPS与精准数据洞察，提供一套快速见效、持续优化的解决方案，系统化保障低成本与准时交付。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
