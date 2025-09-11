@@ -43,6 +43,7 @@ class MyDocument extends Document {
     return (
       <Html lang={BLOG.LANG}>
         <Head>
+          <meta name="msvalidate.01" content="8F8CE32F920EF46EF8D6FC0116A0EAF0" />
           {/* 预加载字体 */}
           {BLOG.FONT_AWESOME && (
             <>
