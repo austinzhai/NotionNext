@@ -84,7 +84,7 @@ const CONFIG = {
   STARTER_PRICING_1_PRICE_CURRENCY: '¥',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '库存在线分析,MyAPS试用,帮助手册,在线研讨会支持', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: '库存在线分析,数据清洗,MyAPS试用,帮助手册,在线研讨会支持', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即试用',
   STARTER_PRICING_1_BUTTON_URL:
     'https://aps.originflow.cn/article/free',
@@ -95,13 +95,13 @@ const CONFIG = {
   STARTER_PRICING_2_PRICE_CURRENCY: '¥',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含ERP数据集成,MyAPS SaaS版,现场精益改善周,年度维护', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: '数据清洗,ERP数据集成,MyAPS SaaS版,现场精益改善周,年度维护', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即订购',
   STARTER_PRICING_2_BUTTON_URL:
     'https://aps.originflow.cn/article/price-saas',
 
   STARTER_PRICING_3_TITLE: '集成商/大企业',
-  STARTER_PRICING_3_PRICE: '联系我',
+  STARTER_PRICING_3_PRICE: '待定',
   STARTER_PRICING_3_PRICE_CURRENCY: '¥',
   STARTER_PRICING_3_PRICE_PERIOD: '套',
   STARTER_PRICING_3_HEADER: '功能点',
@@ -181,7 +181,7 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: 'MyAPS有帮助文档吗？',
+  STARTER_FAQ_1_QUESTION: '找MyAPS帮助文档？',
   STARTER_FAQ_1_ANSWER:
     '我们提供了<a href="https://aps.originflow.cn/article/free">帮助文档</a>，操作演示视频</a>，来协助您完成MyAPS软件的建模和试用',
 
@@ -193,7 +193,7 @@ const CONFIG = {
   STARTER_FAQ_3_ANSWER:
     '数据集成服务，详情参考<a className="underline" href="https://aps.originflow.cn/article/data-integration">《数据集成文档》</a>',
  
-  STARTER_FAQ_4_QUESTION: '降低库存的方法论是什么？',
+  STARTER_FAQ_4_QUESTION: '精益数字化方法论？',
   STARTER_FAQ_4_ANSWER:
     '全面流动管理TFM的方法，通过工厂价值流、APS工具快速达成降低库存和改善交付，详情参考<a className="underline" href="https://www.originflow.cn/service/workshop">《帮助文档》</a>',
 
