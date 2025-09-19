@@ -50,7 +50,7 @@ const CONFIG = {
     'https://www.originflow.cn/contact/team', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '敏捷迭代', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '针对小企业，采用低代码平台，培养数字化改善员工，提升持续改善能力', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '针对小企业，采用低代码平台，培养员工数字化改善能力', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://aps.originflow.cn/article/mingdao', // 特性3
 
