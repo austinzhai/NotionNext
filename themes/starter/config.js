@@ -39,7 +39,7 @@ const CONFIG = {
     '我们的愿景是帮助您提升竞争力、增加收入、完善方案、解决客户痛点。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '德系智造', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '源自保时捷咨询方法论 + 结合数字化扩展能力', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '德国智能工厂规划方法论 + 结合数字化扩展能力', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://www.originflow.cn/service/workshop', // 特性1
 
@@ -50,7 +50,7 @@ const CONFIG = {
     'https://www.originflow.cn/contact/team', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '敏捷迭代', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '结合数据集成、低代码平台，提升持续改善能力', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '针对小企业，采用低代码平台，培养数字化改善员工，提升持续改善能力', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://aps.originflow.cn/article/mingdao', // 特性3
 
@@ -193,7 +193,7 @@ const CONFIG = {
   STARTER_FAQ_3_ANSWER:
     '数据集成服务，详情参考<a className="underline" href="https://aps.originflow.cn/article/data-integration">《数据集成文档》</a>',
  
-  STARTER_FAQ_4_QUESTION: '精益数字化方法论？',
+  STARTER_FAQ_4_QUESTION: '打动客户的方法论？',
   STARTER_FAQ_4_ANSWER:
     '全面流动管理TFM的方法，通过工厂价值流、APS工具快速达成降低库存和改善交付，详情参考<a className="underline" href="https://www.originflow.cn/service/workshop">《帮助文档》</a>',
 
