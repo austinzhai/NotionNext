@@ -10,8 +10,8 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '保交付，找制原', // 英雄区文字
-  STARTER_HERO_TITLE_2: '德系精益+MYAPS，专治急单、高库存、交付难！', // 英雄区文字
+  STARTER_HERO_TITLE_1: 'MYAPS赋能MES伙伴,撬动增长新引擎', // 英雄区文字
+  STARTER_HERO_TITLE_2: '', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '软件试用', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -36,7 +36,7 @@ const CONFIG = {
   STARTER_FEATURE_TITLE: '特性', // 特性
   STARTER_FEATURE_TEXT_1: '我们解决方案的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
-    'Originflow的愿景是帮助您低成本的、快速的、系统的、持续有效的降低库存、快速交付。 ', // 特性
+    '我们的愿景是帮助您提升竞争力、增加收入、完善方案、解决客户痛点。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '德系智造', // 特性1
   STARTER_FEATURE_1_TEXT_1: '源自保时捷咨询方法论 + 结合数字化扩展能力', // 特性1
@@ -89,23 +89,23 @@ const CONFIG = {
   STARTER_PRICING_1_BUTTON_URL:
     'https://aps.originflow.cn/article/free',
 
-  STARTER_PRICING_2_TAG: '推荐',
+  STARTER_PRICING_2_TAG: '小企业',
   STARTER_PRICING_2_TITLE: 'SaaS版',
   STARTER_PRICING_2_PRICE: '2,500',
   STARTER_PRICING_2_PRICE_CURRENCY: '¥',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含ERP数据集成,MyAPS SaaS版,现场实施,年度维护', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: '包含ERP数据集成,MyAPS SaaS版,现场精益改善周,年度维护', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即订购',
   STARTER_PRICING_2_BUTTON_URL:
     'https://aps.originflow.cn/article/price-saas',
 
-  STARTER_PRICING_3_TITLE: '定制项目',
+  STARTER_PRICING_3_TITLE: '集成商/大企业',
   STARTER_PRICING_3_PRICE: '待定',
   STARTER_PRICING_3_PRICE_CURRENCY: '¥',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含ERP数据集成,MyAPS专业版,精益快赢项目,绩效对赌，年度维护', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: 'Demo支持,售前解决方案,MyAPS专业版,现场精益研讨会,项目阶段指导,年度维护', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '联系我们',
   STARTER_PRICING_3_BUTTON_URL:
     'https://aps.originflow.cn/article/price-project',
@@ -122,7 +122,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '卓越运营OPEX-1588的方法论和数字化工具非常简明有效，员工容易掌握并且立刻着手改善，是培养员工改善技能的利器！ ',
+        '卓越运营OPEX-1588的方法论和MYAPS工具非常简明有效，员工容易掌握并且立刻着手改善，是培养员工改善技能的利器！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Gregor',
