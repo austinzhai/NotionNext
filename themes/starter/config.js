@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: 'MYAPS赋能MES伙伴,撬动增长新引擎', // 英雄区文字
+  STARTER_HERO_TITLE_1: '赋能MES伙伴 撬动增长新引擎', // 英雄区文字
   STARTER_HERO_TITLE_2: '', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '软件试用', // 英雄区按钮
@@ -61,9 +61,9 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '融合德系精益与MYAPS，为您实现更少库存、更快交付',
+  STARTER_ABOUT_TITLE: 'MES完美落地，始于APS精准计划',
   STARTER_ABOUT_TEXT:
-    '困于高库存与低交付率的两难境地？Originflow为您破局。 <br /> <br /> 我们凭借强大的MyAPS与精准数据洞察，提供一套快速见效、持续优化的解决方案，系统化保障低成本与准时交付。',
+    ' MES方案没有打动客户？让我们来为您破局。 <br /> <br /> 我们凭借强大的MyAPS与精准数据洞察，提供一套快速见效、持续优化的解决方案，系统化保障低成本与准时交付。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://aps.originflow.cn/article/price-saas',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
@@ -101,11 +101,11 @@ const CONFIG = {
     'https://aps.originflow.cn/article/price-saas',
 
   STARTER_PRICING_3_TITLE: '集成商/大企业',
-  STARTER_PRICING_3_PRICE: '待定',
+  STARTER_PRICING_3_PRICE: '联系我',
   STARTER_PRICING_3_PRICE_CURRENCY: '¥',
-  STARTER_PRICING_3_PRICE_PERIOD: '每月',
+  STARTER_PRICING_3_PRICE_PERIOD: '套',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: 'Demo支持,售前解决方案,MyAPS专业版,现场精益研讨会,项目阶段指导,年度维护', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '售前解决方案,Demo支持,MyAPS专业版,精益研讨会,阶段指导', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '联系我们',
   STARTER_PRICING_3_BUTTON_URL:
     'https://aps.originflow.cn/article/price-project',
