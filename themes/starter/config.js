@@ -181,9 +181,9 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: '找MyAPS帮助文档？',
+  STARTER_FAQ_1_QUESTION: '找MYAPS帮助文档？',
   STARTER_FAQ_1_ANSWER:
-    '我们提供了<a href="https://aps.originflow.cn/article/free">帮助文档</a>，操作演示视频</a>，来协助您完成MyAPS软件的建模和试用',
+    '我们提供了<a href="https://aps.originflow.cn/article/free">帮助文档</a>，操作演示视频</a>，来协助您完成MYAPS软件的建模和试用',
 
   STARTER_FAQ_2_QUESTION: '你们如何实施项目？',
   STARTER_FAQ_2_ANSWER:
@@ -242,9 +242,9 @@ const CONFIG = {
   STARTER_CONTACT_TITLE: '联系我们',
   STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
   STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
-  STARTER_CONTACT_LOCATION_TEXT: '中国，江苏',
+  STARTER_CONTACT_LOCATION_TEXT: '中国，江苏常州',
   STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'austin.zhai@originflow.cn',
+  STARTER_CONTACT_EMAIL_TEXT: '热线电话：400-101-9550',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/contact-us-j21b7b', // 基于NoteForm创建，将留言数据存在Notion中
@@ -326,18 +326,18 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'MyAPS',
+      TITLE: 'MYAPS',
       LINK_GROUP: [
         {
-          TITLE: 'MyAPS功能1',
+          TITLE: 'MYAPS功能1',
           URL: 'https://aps.originflow.cn/article/free'
         },
         {
-          TITLE: 'MyAPS功能2',
+          TITLE: 'MYAPS功能2',
           URL: 'https://aps.originflow.cn/article/free'
         },
         {
-          TITLE: 'MyAPS功能3',
+          TITLE: 'MYAPS功能3',
           URL: 'https://aps.originflow.cn/article/free'
         }
       ]
@@ -365,7 +365,7 @@ const CONFIG = {
   STARTER_CTA_TITLE: '你还在等待什么呢？',
   STARTER_CTA_TITLE_2: '现在开始吧',
   STARTER_CTA_DESCRIPTION:
-    '访问MyAPS的操作文档，我们提供了详细的教程，帮助你即刻试用软件',
+    '访问MYAPS的操作文档，我们提供了详细的教程，帮助你即刻试用软件',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
     'https://aps.originflow.cn/article/free',
