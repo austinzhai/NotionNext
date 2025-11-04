@@ -47,7 +47,7 @@ const CONFIG = {
   STARTER_FEATURE_2_TEXT_1: '开发团队源自德国西门子公司，具备15年+SAP实施经验', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://www.originflow.cn/contact/team', // 特性2
+    'https://aps.originflow.cn/article/team', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '敏捷迭代', // 特性3
   STARTER_FEATURE_3_TEXT_1: '针对小企业，采用低代码平台，培养员工数字化改善能力', // 特性3
@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     ' MES方案没有打动客户？让我们来为您破局。 <br /> <br /> 我们凭借强大的MyAPS与精准数据洞察，提供一套快速见效、持续优化的解决方案，系统化保障低成本与准时交付。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://aps.originflow.cn/article/price-saas',
+  STARTER_ABOUT_BUTTON_URL: 'https://aps.originflow.cn/article/manual',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '30+',
@@ -183,11 +183,11 @@ const CONFIG = {
 
   STARTER_FAQ_1_QUESTION: '找MYAPS帮助文档？',
   STARTER_FAQ_1_ANSWER:
-    '我们提供了<a href="https://aps.originflow.cn/article/free">帮助文档</a>，操作演示视频</a>，来协助您完成MYAPS软件的建模和试用',
+    '我们提供了<a href="https://aps.originflow.cn/article/manual">帮助文档</a>，操作演示视频</a>，来协助您完成MYAPS软件的建模和试用',
 
   STARTER_FAQ_2_QUESTION: '你们如何实施项目？',
   STARTER_FAQ_2_ANSWER:
-    '我们按照标准的德系管理咨询架构实施项目，并且采用数字化工具加速项目的实施，详情参考<a className="underline" href="https://www.originflow.cn/service/consulting">《帮助文档》</a>',
+    '我们按照标准的德系管理咨询架构实施项目，并且采用数字化工具加速项目的实施，详情参考<a className="underline" href="https://aps.originflow.cn/article/manual">《帮助文档》</a>',
 
   STARTER_FAQ_3_QUESTION: '数据集成服务包含哪些内容？',
   STARTER_FAQ_3_ANSWER:
@@ -300,14 +300,14 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://www.originflow.cn/' },
+        { TITLE: '操作文档', URL: 'https://aps.originflow.cn/article/manual' },
         {
           TITLE: '帮助支持',
-          URL: 'https://www.originflow.cn/'
+          URL: 'https://aps.originflow.cn/article/manual'
         },
         {
           TITLE: '合作申请',
-          URL: 'https://www.originflow.cn/'
+          URL: 'https://aps.originflow.cn/article/manual'
         }
       ]
     },
@@ -316,13 +316,13 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: '部署指南',
-          URL: 'https://aps.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/manual'
         },
         {
           TITLE: '升级指南',
-          URL: 'https://aps.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/manual'
         },
-        { TITLE: '最新版本', URL: 'https://aps.originflow.cn/article/free' }
+        { TITLE: '最新版本', URL: 'https://aps.originflow.cn/article/manual' }
       ]
     },
     {
@@ -330,15 +330,15 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'MYAPS功能1',
-          URL: 'https://aps.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/manual'
         },
         {
           TITLE: 'MYAPS功能2',
-          URL: 'https://aps.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/manual'
         },
         {
           TITLE: 'MYAPS功能3',
-          URL: 'https://aps.originflow.cn/article/free'
+          URL: 'https://aps.originflow.cn/article/manual'
         }
       ]
     }
@@ -368,7 +368,7 @@ const CONFIG = {
     '访问MYAPS的操作文档，我们提供了详细的教程，帮助你即刻试用软件',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
-    'https://aps.originflow.cn/article/free',
+    'https://aps.originflow.cn/article/manual',
   STARTER_CTA_BUTTON_TEXT: '开始体验',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
