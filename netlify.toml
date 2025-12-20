@@ -1,11 +1,4 @@
-# 解决 SPA 路由 404 问题
 [[redirects]]
 from = "/*"
 to = "/index.html"
 status = 200
-
-# 缓存规则，提升速度+降低消耗
-[[headers]]
-for = "/*"
-[headers.values]
-Cache-Control = "public, max-age=3600, stale-while-revalidate=86400"
