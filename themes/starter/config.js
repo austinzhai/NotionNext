@@ -16,8 +16,8 @@ const CONFIG = {
   STARTER_HERO_BUTTON_1_TEXT: '软件试用', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://aps.originflow.cn/article/free', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '精益咨询', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://www.originflow.cn/service/consulting', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '视频介绍', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://aps.originflow.cn/article/vedio', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     ' MES方案没有打动客户？让我们来为您破局。 <br /> <br /> 我们凭借强大的MyAPS与精准数据洞察，提供一套快速见效、持续优化的解决方案，系统化保障低成本与准时交付。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://aps.originflow.cn/article/manual',
+  STARTER_ABOUT_BUTTON_URL: 'https://aps.originflow.cn/article/price-project',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '30+',
